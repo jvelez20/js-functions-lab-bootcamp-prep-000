@@ -1,1 +1,1 @@
-// write your code below!
+1.	function sayhappyHolidays() {2.	console.log ('Happy Holidays!')3.	}
